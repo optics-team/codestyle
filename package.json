@@ -1,0 +1,22 @@
+{
+  "name": "@optics/codestyle",
+  "version": "1.0.0",
+  "description": "TSLint rules for Optics projects",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optics-team/codestyle.git"
+  },
+  "author": "Warren Seymour",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/optics-team/codestyle/issues"
+  },
+  "homepage": "https://github.com/optics-team/codestyle#readme",
+  "devDependencies": {
+    "tslint-consistent-codestyle": "^1.6.0"
+  }
+}
